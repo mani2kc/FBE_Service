@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+   logfile = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+Installing service GetEstimateWSHost...
+Service GetEstimateWSHost has been successfully installed.
+Creating EventLog source GetEstimateWSHost in log Application...
+Committing assembly 'C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+   logfile = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog

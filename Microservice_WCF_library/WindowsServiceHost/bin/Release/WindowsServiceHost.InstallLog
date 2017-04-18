@@ -1,0 +1,91 @@
+﻿Installing assembly 'C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe
+   logfile = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.InstallLog
+Installing service GetEstimateWSHost...
+Creating EventLog source GetEstimateWSHost in log Application...
+Rolling back assembly 'C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe
+   logfile = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.InstallLog
+Restoring event log to previous state for source GetEstimateWSHost.
+Installing assembly 'C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe
+   logfile = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.InstallLog
+Installing service GetEstimateWSHost...
+Service GetEstimateWSHost has been successfully installed.
+Creating EventLog source GetEstimateWSHost in log Application...
+Committing assembly 'C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe
+   logfile = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.InstallLog
+Installing assembly 'C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe
+   logfile = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.InstallLog
+Installing service GetEstimateWSHost...
+Creating EventLog source GetEstimateWSHost in log Application...
+Rolling back assembly 'C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe
+   logfile = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.InstallLog
+Restoring event log to previous state for source GetEstimateWSHost.
+Installing assembly 'C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe
+   logfile = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.InstallLog
+Installing service GetEstimateWSHost...
+Service GetEstimateWSHost has been successfully installed.
+Creating EventLog source GetEstimateWSHost in log Application...
+Committing assembly 'C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe
+   logfile = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.InstallLog
+Installing assembly 'C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe
+   logfile = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.InstallLog
+Installing service GetEstimateWSHost...
+Service GetEstimateWSHost has been successfully installed.
+Creating EventLog source GetEstimateWSHost in log Application...
+Committing assembly 'C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe
+   logfile = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.InstallLog
+Installing assembly 'C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe
+   logfile = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.InstallLog
+Installing service GetEstimateWSHost...
+Service GetEstimateWSHost has been successfully installed.
+Creating EventLog source GetEstimateWSHost in log Application...
+Committing assembly 'C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe
+   logfile = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.InstallLog
+Installing assembly 'C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe
+   logfile = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.InstallLog
+Installing service GetEstimateWSHost...
+Service GetEstimateWSHost has been successfully installed.
+Creating EventLog source GetEstimateWSHost in log Application...
+Committing assembly 'C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.exe
+   logfile = C:\Users\CHANDRA\Documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Release\WindowsServiceHost.InstallLog

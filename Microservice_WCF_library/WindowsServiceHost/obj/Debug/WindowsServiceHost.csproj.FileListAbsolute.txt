@@ -1,0 +1,12 @@
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\obj\Debug\WindowsServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\obj\Debug\WindowsServiceHost.ProjectInstaller.resources
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\obj\Debug\WindowsServiceHost.GetEstimateWSHost.resources
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\obj\Debug\WindowsServiceHost.csproj.GenerateResource.Cache
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe.config
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Debug\WindowsServiceHost.pdb
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Debug\Microservice_WCF_library.dll
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Debug\Microservice_WCF_library.pdb
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\bin\Debug\Microservice_WCF_library.dll.config
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\obj\Debug\WindowsServiceHost.exe
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\WindowsServiceHost\obj\Debug\WindowsServiceHost.pdb
