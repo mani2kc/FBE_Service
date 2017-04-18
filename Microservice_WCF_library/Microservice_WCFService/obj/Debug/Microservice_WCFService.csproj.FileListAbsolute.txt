@@ -1,0 +1,9 @@
+C:\Users\CHANDRA\Documents\Visual Studio 2017\Projects\Microservice_WCF_library\Microservice_WCFService\bin\Microservice_WCFService.dll.config
+C:\Users\CHANDRA\Documents\Visual Studio 2017\Projects\Microservice_WCF_library\Microservice_WCFService\bin\Microservice_WCFService.dll
+C:\Users\CHANDRA\Documents\Visual Studio 2017\Projects\Microservice_WCF_library\Microservice_WCFService\bin\Microservice_WCFService.pdb
+C:\Users\CHANDRA\Documents\Visual Studio 2017\Projects\Microservice_WCF_library\Microservice_WCFService\obj\Debug\Microservice_WCFService.dll
+C:\Users\CHANDRA\Documents\Visual Studio 2017\Projects\Microservice_WCF_library\Microservice_WCFService\obj\Debug\Microservice_WCFService.pdb
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\Microservice_WCFService\obj\Debug\Microservice_WCFService.csprojResolveAssemblyReference.cache
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\Microservice_WCFService\bin\Microservice_WCF_library.dll
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\Microservice_WCFService\bin\Microservice_WCF_library.pdb
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\Microservice_WCFService\bin\Microservice_WCF_library.dll.config

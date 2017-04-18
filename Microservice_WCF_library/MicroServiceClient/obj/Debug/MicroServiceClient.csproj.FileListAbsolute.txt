@@ -1,0 +1,6 @@
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\MicroServiceClient\bin\Debug\MicroServiceClient.exe.config
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\MicroServiceClient\bin\Debug\MicroServiceClient.exe
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\MicroServiceClient\bin\Debug\MicroServiceClient.pdb
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\MicroServiceClient\obj\Debug\MicroServiceClient.exe
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\MicroServiceClient\obj\Debug\MicroServiceClient.pdb
+C:\Users\CHANDRA\documents\visual studio 2017\Projects\Microservice_WCF_library\MicroServiceClient\obj\Debug\MicroServiceClient.csprojResolveAssemblyReference.cache

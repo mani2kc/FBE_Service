@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Microservice_WCF_library.GetEstimate" CodeBehind="Microservice_WCF_library.GetEstimate.cs" %>
